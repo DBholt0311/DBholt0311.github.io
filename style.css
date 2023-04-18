@@ -18,5 +18,6 @@ h4 {
 }
 
 img {
-  width: 50%;
+  float: right;
+  width: 30%;
 }
