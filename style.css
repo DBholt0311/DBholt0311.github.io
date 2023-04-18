@@ -16,3 +16,7 @@ body {
 h4 {
   text-decoration: underline 3px;
 }
+
+img {
+  width: 50%;
+}
