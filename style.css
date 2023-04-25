@@ -19,5 +19,5 @@ h4 {
 
 img {
     width: 30%;
-    object-position: right;
+    float: left;
 }
